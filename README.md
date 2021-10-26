@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Author
+## Website
 
-tuxo304
-tuxo304
+1. index.html
